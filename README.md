@@ -1,2 +1,2 @@
-# lab-jpa-union
-lab for jpa union
+# lab-blaze-persistence
+lab for blaze persistence
